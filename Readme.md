@@ -1,7 +1,7 @@
 <div align="center">
 
 # 纳米平汉宋(NanoPyongHanHei) [更新]
-### 作者：HACKERSam（H.S.S. - 寒沙）    |    邮箱:3582930858@qq.com
+### 作者：H.S.S. - 寒沙    |    邮箱:3582930858@qq.com
 </div>
 
 ![s0](s0.png)
@@ -22,7 +22,7 @@
 
 ### 字体制作有可能有一些误差，字符有可能会错误或制作不精良！
 
-### 如有**字形优化**和**字形建议**的话请在[Issues #1](https://github.com/HACKERSam2011/NanoPyongHanHei/issues/1)反馈; 若是想**增加字形**的话请在[Issues #2](https://github.com/HACKERSam2011/NanoPyongHanHei/issues/2)请求！
+### 如有**字形优化**和**字形建议**的话请在[Issues #1](https://github.com/Hansha2011/NanoPyongHanHei/issues/1)反馈; 若是想**增加字形**的话请在[Issues #2](https://github.com/Hansha2011/NanoPyongHanHei/issues/2)请求！
 
 > [!WARNING]
 >
