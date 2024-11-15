@@ -1,6 +1,6 @@
 <div align="center">
 
-# 纳米平汉宋(NanoPyongHanHei) [更新]
+# 纳米平汉黑(NanoPyongHanHei) [更新]
 ### 作者：H.S.S. - 寒沙    |    邮箱:3582930858@qq.com
 </div>
 
